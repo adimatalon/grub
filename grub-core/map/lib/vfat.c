@@ -21,8 +21,8 @@
 #include <string.h>
 #include <stdio.h>
 #include <assert.h>
+
 #include <maplib.h>
-#include <private.h>
 #include <vfat.h>
 
 #if __GNUC__ >= 9
